@@ -117,8 +117,6 @@ Working on production software with a focus on backend engineering, APIs, applic
 
 ## 📊 GitHub
 
-![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrkr18&show_icons=true&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrkr18&layout=compact&hide_border=true)
 
 ---
